@@ -16,3 +16,7 @@ I will not be responsible for your usage or eventual consequence.
 Use at your own risk.
 P.s: there are bugs to fix, so if you want fix it and push the fix to my repo.
 Tool is in Italian, feel free to make it international.
+
+INSTRUCTIONS
+
+Follow the Video and Read to code.
