@@ -28,6 +28,8 @@ INSTRUCTIONS
    wait_imap_verification_mail
    push_mail_creation_to_mitb
    (Probably need also edit few regexs if not live in italy)
+
+7) Follow the video Tutorial.mp4 in the git repository to understand how works.
 ====================================================
 
 For further help, send me a message on telegram https://t.me/iosonomanuuu
