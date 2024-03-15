@@ -32,6 +32,29 @@ INSTRUCTIONS
 7) Follow the video Tutorial.mp4 in the git repository to understand how works.
 ====================================================
 
+TIPS
+1) To avoid phone number verification change your IP
+2) In Accounts folder will find folder for each account, is present on it a json file with informations and a picture of linked account in social club.
+Json structure is like:
+
+{
+    "email": "XXXXXXX@hotmail.com",
+    "recovery_mail": "XXXXXXX@XXXXXXX.it",
+    "password": "XXXXXXX",
+    "dob": [
+        "1",
+        "4",
+        "1994"
+    ],
+    "city": "XXXXXXX",
+    "zip_code": "00055",
+    "first_name": "XXXXXXX",
+    "last_name": "XXXXXXX",
+    "xbox_gamertag": "XXXXXXX",
+    "psn_gamertag": "XXXXXXX",
+    "creation_date": "15/03/2024 10:42:00"
+}
+
 For further help, send me a message on telegram https://t.me/iosonomanuuu
 
 
