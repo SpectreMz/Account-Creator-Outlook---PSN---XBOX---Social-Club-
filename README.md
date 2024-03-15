@@ -9,7 +9,7 @@ Features:
 
 Feel free to push updates and eventually fixes.
 
-Tool is free, made only for fun as style-exercise.
+Tool was made only for fun as style-exercise.
 
 ====================================================
 I will not be responsible for your usage or eventual consequence.
@@ -18,5 +18,18 @@ P.s: there are bugs to fix, so if you want fix it and push the fix to my repo.
 Tool is in Italian, feel free to make it international.
 
 INSTRUCTIONS
+1) Create a folder and put inside the __main__.py
+2) Create a folder in the same path of __main__.py file and call it "Accounts"
+3) Install requirements using pip (advice python3.12)
+4) Be sure that Google Chrome is installed on your PC, else the tool can't work.
+5) To edit Tool config, open __main__.py with Visual Studio Code and edit the CONFIGS part.
+6) To edit recovery Mail In A Box, need to edit the following parts:
+   Function wait_imap_verification_mail_not_async
+   wait_imap_verification_mail
+   push_mail_creation_to_mitb
+   (Probably need also edit few regexs if not live in italy)
+====================================================
 
-Follow the Video and Read to code.
+For further help, send me a message on telegram https://t.me/iosonomanuuu
+
+
