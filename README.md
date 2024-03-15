@@ -5,7 +5,7 @@ Features:
 1) Custom Domain or Compeltely random emails.
 2) Custom Password and Dob.
 3) Possibility to auto-join a GTA Crew.
-4) Set recovery mail automatically using [Mail In A Box](https://mailinabox.email/)https://mailinabox.email/ Service.
+4) Set recovery mail automatically using [Mail In A Box] (https://mailinabox.email/)https://mailinabox.email/ Service.
 
 Feel free to push updates and eventually fixes.
 
